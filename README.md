@@ -2,9 +2,7 @@
 
 ### I'm an Olympian turned Full-Stack Web Developer, looking to apply my new found love and knowledge for programming to make a positive impact on those around me.
 
-I'm recently coming off a 4-year Olympic journey with Team Canada, culminating with a <a href="https://www.cbc.ca/sports/olympics/summer/softball/olympics-canada-mexico-softball-bronze-medal-july27-1.6118526?fbclid=IwAR0-2yVk22W2sCX2wy5rKTBkIUQi4pSZ5G4EfKP_nNKt13r0VjttCryNBEs">Bronze Medal performance</a> in Softball at the Tokyo 2020 Olympics. 
-After achieving this accomplishment, I am now looking forward to a career as a full-stack developer. 
-I attribute my athletic success to my work ethic and the value I hold in pursuing things that bring me joy, make me curious, and challenge me day after day.  My passion for learning and constantly improving my craft has been one of the key successes to my life so far and I look forward to applying that same mindset to what’s next in my journey. 
+After coming off a 4-year Olympic journey and a <a href="https://www.cbc.ca/sports/olympics/summer/softball/olympics-canada-mexico-softball-bronze-medal-july27-1.6118526?fbclid=IwAR0-2yVk22W2sCX2wy5rKTBkIUQi4pSZ5G4EfKP_nNKt13r0VjttCryNBEs">Bronze Medal performance</a> in Softball for Team Canada at the Tokyo 2020 Olympics, I made the career transition by taking a coding bootcamp. The technical, analytical and creative aspects of web development drew me in and once I started learning the basics of HTML and CSS, I was hooked. I have achieved some of my biggest goals in sport and I attribute it to my work ethic and the value I hold in pursuing things that bring me joy, make me curious, and challenge me day after day. My passion for learning and constantly improving my craft has been one of the key successes to my life so far and I look forward to applying that same mindset to what’s next in my journey in the tech world. 
 
 
 ## Languages and Tools I use:
