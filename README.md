@@ -9,7 +9,7 @@ After coming off a 4-year Olympic journey and a <a href="https://www.cbc.ca/spor
 
  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="50px">&nbsp;&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="css" width="50px"> &nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" width="50px">&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="react" width="50px"> &nbsp;&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" alt="sass" width="50px"> &nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="50px"> &nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/express-8-1175029.png" alt="express" width="50px">&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" alt="jest" width="50px"> &nbsp;&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-20-1174940.png" alt="mySQL" width="50px"> &nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/github-163-761603.png" alt="github" width="50px"> 
  
-## Other things:
+### Resume:
 - <a href="https://drive.google.com/file/d/1Y-14f8I5kPrAn3JlCfCbK-6Uq2ZWGaLg/view?usp=sharing">My Resume<a/>
 
 
